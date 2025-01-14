@@ -1,8 +1,8 @@
-# Prework - *Name of App Here*
+# Prework - *Pre work codepath*
 
 Submitted by: **Lilibeht Smalls-Mantey**
 
-**Name of your app** is an app that... [TODO] 
+**Pre work IOS program** is an app that... [TODO]
 
 Time spent: **2 hours** hours spent in total
 
@@ -13,18 +13,22 @@ The following **required** functionality is completed:
 - [ x] Users are see a screen with three labels and a button
 - [ x] Tapping the button changes the screen color to a random color
  
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 
-## Notes
+## Notes: The biggest challenge I encountered while building the application was that I had never worked with Xcode before, so I had to learn how to navigate it. However, once I became familiar with it, things were easy to set up.
 
-Describe any challenges encountered while building the app.
 
+## Favorite App: Pinterest
+1. Favorite Feature: Skin tone matching for personalized content.
+   - Why I Like It: This feature tailors beauty and style recommendations to my preferences, making it a more inclusive and customized experience.
+2. Shopping experience
+    -  Image search for items, showing where they are from which allow me to shop with ease.
+    
+    
+##App Idea
+  - If I could improve an app, I would focus on Pinterest remaining loyal to its initial purpose by prioritizing human connection above all else.
+  
 ## License
 
     Copyright [yyyy] [name of copyright owner]
