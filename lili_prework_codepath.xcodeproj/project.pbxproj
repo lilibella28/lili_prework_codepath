@@ -42,6 +42,7 @@
 		084A21AD2CEFCB3E00FCC34C = {
 			isa = PBXGroup;
 			children = (
+				08D461462D36D1B100F8E241 /* README.md */,
 				084A21B82CEFCB3E00FCC34C /* lili_prework_codepath */,
 				084A21B72CEFCB3E00FCC34C /* Products */,
 			);
@@ -65,7 +66,6 @@
 				084A21C22CEFCB4100FCC34C /* Assets.xcassets */,
 				084A21C42CEFCB4100FCC34C /* LaunchScreen.storyboard */,
 				084A21C72CEFCB4100FCC34C /* Info.plist */,
-				08D461462D36D1B100F8E241 /* README.md */,
 			);
 			path = lili_prework_codepath;
 			sourceTree = "<group>";
