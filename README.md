@@ -27,7 +27,7 @@ The following **required** functionality is completed:
     
     
 ##App Idea
-  - If I could improve an app, I would focus on Pinterest remaining loyal to its initial purpose by prioritizing human connection above all else.
+  - If I could improve an app, I would focus on Pinterest remaining loyal to its initial purpose by prioritizing human connection above all else. This could include features that encourage meaningful interactions between users, such as collaborative boards with real-time chats or personalized recommendations that foster community engagement around shared interests.
   
 ## License
 
